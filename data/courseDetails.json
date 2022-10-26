@@ -1,30 +1,157 @@
 [
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
-      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
-      "topic": "Input/Output",
-      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
-    },
-    {
-      "_id": "0282e0e23a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
-      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
-      "topic": "Data Types",
-      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
-    },
-    {
-      "_id": "0282e0e23a5c404f34215261f11c2ab6a",
-      "category_id": "01",
-      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
-      "topic": "Variables",
-      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
-    },
-    {
-      "_id": "0282e0e23a5c404f453d15261f11c2ab6a",
-      "category_id": "01",
-      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
-      "topic": "Operators",
-      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
-    }
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2fdgdgab6a",
+    "category_id": "01",
+    "title": "Python: Data Types",
+    "img": "https://miro.medium.com/max/631/1*8J9yViDiXqNYeEWctWkdfQ.jpeg",
+    "details": "List. Lists are used to store multiple items in a single variable. Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage."
+  },
+  {
+    "_id": "0282e0e58a5485fg234tbfdgfdgd15261f11c2ab6a",
+    "category_id": "01",
+    "title": "Python: More Conditional Statement",
+    "img": "https://files.realpython.com/media/t.78f3bacaa261.png",
+    "details": "What are Conditional Statements in Python? Conditional Statement in Python perform different computations or actions depending on whether a specific Boolean constraint evaluates to true or false. Conditional statements are handled by IF statements in Python."
+  },
+  {
+    "_id": "0282e0e58a5c4044385615fdhhgjtyzfdgrda234455f11c2ab6a",
+    "category_id": "01",
+    "title": "Python: Variables",
+    "img": "https://www.guru99.com/images/Pythonnew/Python5.1.png",
+    "details": "What are Conditional Statements in Python? Conditional Statement in Python perform different computations or actions depending on whether a specific Boolean constraint evaluates to true or false. Conditional statements are handled by IF statements in Python."
+  },
+
+
+  {
+    "_id": "0282e0vv44558a5c404ffdgfdrgbd15261f11c2ab6a",
+    "category_id": "02",
+    "title": "Html: In Line Css",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--XTfrg1ZP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://public-image-container.s3.ap-southeast-1.amazonaws.com/newinlines.png",
+    "details": "When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet."
+  },
+  {
+    "_id": "0282e0e58a5fhfh485fg2344432bd15261f11c2ab6a",
+    "category_id": "02",
+    "title": "Html: Layout",
+    "img": "https://media.geeksforgeeks.org/wp-content/uploads/layout.png",
+    "details": "Websites often display content in multiple columns (like a magazine or a newspaper)."
+  },
+  {
+    "_id": "0282e0e58a5c4024fghtfh688865615261f11c2ab6a",
+    "category_id": "02",
+    "title": "Html: Section",
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/Screenshot-12-1024x576.png",
+    "details": "Adding the Horizontal Line using <hr> tag: The Horizontal Rule tag (<hr>) is used for the purpose of inserting horizontal lines in the HTML document in order to separate sections of the document."
+  },
+
+  {
+    "_id": "0282e0vv44558a5c404fbd15261f11c2ab6adsffg",
+    "category_id": "03",
+    "title": "Css: The position Property",
+    "img": "data:image/png;base64,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",
+    "details": "The position property specifies the type of positioning method used for an element.There are five different position values:1.static,2.relative,3.fixed4.absolute,5.sticky;Elements are then positioned using the top, bottom, left, and right properties. However, these properties will not work unless the position property is set first. They also work differently depending on the position value."
+  },
+  {
+    "_id": "0282e0e58a5485fg2344432bd15261sff11c2asfb6atrf",
+    "category_id": "03",
+    "title": "Css: Hexadecimal Colors",
+    "img": "https://i.pinimg.com/originals/82/20/22/8220221e75ea712cc6a280c052f83455.gif",
+    "details": "A hexadecimal color is specified with: #RRGGBB, where the RR (red), GG (green) and BB (blue) hexadecimal integers specify the components of the color. All values must be between 00 and FF.For example, the #0000ff value is rendered as blue, because the blue component is set to its highest value (ff) and the others are set to 00."
+  },
+  {
+    "_id": "0282e0e58a5c4024688865615261f11c2ab6atyrteggd",
+    "category_id": "03",
+    "title": "Css: Dsiplay Property",
+    "img": "https://chenhuijing.com/assets/images/posts/display.jpg",
+    "details": "The display property specifies the display behavior (the type of rendering box) of an element.In HTML, the default display property value is taken from the HTML specifications or from the browser/user default style sheet. The default value in XML is inline, including SVG elements."
+  }
+  ,
+  {
+    "_id": "0282e0vv44558a5c404fbd152dfgfdteteg61f11c2ab6adsffg",
+    "category_id": "04",
+    "title": "Javascript: Variable",
+    "img": "https://www.wikihow.com/images/thumb/7/7e/Declare-a-Variable-in-Javascript-Step-2.jpg/v4-460px-Declare-a-Variable-in-Javascript-Step-2.jpg.webp",
+    "details": "A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable. There are some rules while declaring a JavaScript variable (also known as identifiers). Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign."
+  },
+  {
+    "_id": "0282e0e58a5485et565gfg2344432bd15261sff11c2asfb6atrf",
+    "category_id": "04",
+    "title": "Javascript: Function",
+    "img": "https://i.redd.it/1x4ho2qngv421.jpg",
+    "details": "A JavaScript function is a block of code designed to perform a particular task. A JavaScript function is executed when something invokes it (calls it)."
+  },
+  {
+    "_id": "0282e0e58a5c40rgr4t24688865615261f11c2ab6atyrteggd",
+    "category_id": "04",
+    "title": "Javascript: DOM",
+    "img": "https://simplesnippets.tech/wp-content/uploads/2018/10/what-is-document-object-model-in-JS-featured-image.jpg",
+    "details": "The DOM defines a standard for accessing documents:The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."
+  },
+  {
+    "_id": "0282e0vv44558a5c404fbd152dfge56dfgfdteteg61f11c2ab6adsffg",
+    "category_id": "05",
+    "title": "Tailwind Css: Navbar",
+    "img": "data:image/png;base64,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",
+    "details": "Tailwind doesn't include pre-designed navigation components out of the box, but they're easy to build using existing utilities.Here are a few examples to help you get an idea of how to build components like this using Tailwind."
+  },
+  {
+    "_id": "0282e0e58a5485et565gfg2344464frygr32bd15261sff11c2asfb6atrf",
+    "category_id": "05",
+    "title": "Tailwind Css: Carousel",
+    "img": "data:image/jpeg;base64,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",
+    "details": "The carousel component can be used to cycle through a set of elements using custom options, controls, and indicators based on the JavaScript object from Flowbite."
+  },
+  {
+    "_id": "0282e0e58a5c40rgr4t24688865rytryt56615261f11c2ab6atyrteggd",
+    "category_id": "05",
+    "title": "Tailwind Css: Buttons",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--dVIfW_SZ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b9lijk3tn8lz23gmn2y7.png",
+    "details": "Tailwind doesn't include pre-designed button styles out of the box, but they're easy to build using existing utilities."
+  },
+  {
+    "_id": "0282e0vv44558a5c404ffdgfdgbd152dfgfdteteg61f11c2ab6adsffg",
+    "category_id": "06",
+    "title": "Bootstrap: Buttons",
+    "img": "https://i0.wp.com/www.cssscript.com/wp-content/uploads/2019/03/Extend-Bootstrap-4-Buttons-With-Extra-Styles-And-Animations-css-buttons.png?fit=1013%2C413&ssl=1",
+    "details": "Bootstrap includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control."
+  },
+  {
+    "_id": "0282e0e58a5485et565gfg23fgfdvcs44432bd15261sff11c2asfb6atrf",
+    "category_id": "06",
+    "title": "Bootstrap: Carousel",
+    "img": "https://www.tutorialrepublic.com/lib/images/bootstrap-5/bootstrap-carousel.png",
+    "details": "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators."
+  },
+  {
+    "_id": "0282e0e58a5c40rgr4t246888fdsfdf65615261f11c2ab6atyrteggd",
+    "category_id": "06",
+    "title": "Bootstrap: Nav",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJn7wc8mRo-bFobnmd5K2ynjPdylaiH_Qr7ZHGPcGf_ZEMmQ8vTjrbfCyMmhjFNQ0vYjc&usqp=CAU",
+    "details": "Navbars come with built-in support for a handful of sub-components. Choose from the following as needed:"
+  },
+
+
+
+
+  {
+    "_id": "0282e0vv445fghfghgfgdgd58a5c404ffdgfdgbd152dfgfdteteg61f11c2ab6adsffg",
+    "category_id": "07",
+    "title": "Bootstrap: Function",
+    "img": "https://i.ytimg.com/vi/Cla1WwguArA/maxresdefault.jpg",
+    "details": "The core purpose of a React component is to define the displayed view and bind it to the code that drives its behavior. React's functional components distill this down to the simplest possible profile: a function that receives properties and returns a JSX definition."
+  },
+  {
+    "_id": "0282e0e58a548dfgd5fgfhgfdhet565gfg23fgfdvcs44432bd15261sff11c2asfb6atrf",
+    "category_id": "07",
+    "title": "Bootstrap: Carousel",
+    "img": "data:image/jpeg;base64,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",
+    "details": "CSS in React is used to style the React App or Component. The style attribute is the most used attribute for styling in React applications, which adds dynamically-computed styles at render time. It accepts a JavaScript object in camelCased properties rather than a CSS string."
+  },
+  {
+    "_id": "0282e0e58a5c40rgrfhgfdhfghb4t246888fdsfdf65615261gterdgf11c2ab6atyrteggd",
+    "category_id": "07",
+    "title": "Bootstrap: Encapsulation",
+    "img": "https://miro.medium.com/max/1400/0*5Oi5VgOy8yzGSc3L",
+    "details": "Web Components provide strong encapsulation for reusable components, while React provides a declarative library that keeps the DOM in sync with your data. The two goals are complementary. As a developer, you are free to use React in your Web Components, or to use Web Components in React, or both."
+  }
 ]

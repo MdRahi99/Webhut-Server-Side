@@ -5,37 +5,36 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const courses = require('./data/courses.json');
-const courseDetails = require('./data/courseDetails.json');
+const categories = require('./data/courses.json');
+const courses = require('./data/courseDetails.json');
 
 app.get('/', (req, res) => {
     res.send('Web Hut Api Running');
 });
 
-app.get('/courses-categories', (req, res) => {
+app.get('/course-categories', (req, res) => {
+    res.send(categories);
+});
+
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    if(id === '00'){
+        res.send(courses);
+    }
+    else{
+        const category_course = courses.filter(course => course.category_id === id);
+        res.send(category_course);
+    }
+});
+
+app.get('/courses', (req, res) => {
     res.send(courses);
 });
 
-app.get('/course-category/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    if(id === '00'){
-        res.send(courseDetails);
-    }
-    else{
-        const courseCategory = courseDetails.filter(course => course.category_id === id);
-        res.send(courseCategory);
-    }
-});
-
-app.get('/course-details', (req, res) => {
-    res.send(courseDetails);
-});
-
-app.get('/course/:id', (req, res) => {
-    const id = req.params.id;
-    const selectedCourse = courseDetails.find(course => course._id === id);
-    res.send(selectedCourse);
-    console.log(req.params.id);
+    const selectedCourses = courses.find(course => course._id === id);
+    res.send(selectedCourses);
 });
 
 app.listen(port, () => {
