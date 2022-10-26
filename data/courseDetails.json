@@ -1,0 +1,30 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
+      "topic": "Input/Output",
+      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
+    },
+    {
+      "_id": "0282e0e23a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
+      "topic": "Data Types",
+      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
+    },
+    {
+      "_id": "0282e0e23a5c404f34215261f11c2ab6a",
+      "category_id": "01",
+      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
+      "topic": "Variables",
+      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
+    },
+    {
+      "_id": "0282e0e23a5c404f453d15261f11c2ab6a",
+      "category_id": "01",
+      "img": "https://pynative.com/wp-content/uploads/2018/06/python_input_function.png",
+      "topic": "Operators",
+      "detail": "The main objective of a programming language is to make it interactive with the user and the audience. If you notice precisely, most of the software we use in real life needs input from a user, whether a search engine or a daily used app, or even mail where we first input our mail id and password.In Python, we have many inbuilt functions that help obtain data from the user and then display the data after processing some particular logic in the code.You can refer to the below flowchart to clarify how the system of inputting data and displaying it on some devices works."
+    }
+]
