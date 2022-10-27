@@ -2,41 +2,49 @@
     {
       "id": "01",
       "name": "Python",
-      "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg"
+      "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
+      "chapter": "3"
     },
     {
       "id": "02",
       "name": "Html",
-      "img": "https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      "img": "https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "chapter": "3"
     },
     {
       "id": "03",
       "name": "Css",
-      "img": "https://www.designlabthemes.com/wp-content/uploads/2015/01/free-css-resources-1200x675.png"
+      "img": "https://www.designlabthemes.com/wp-content/uploads/2015/01/free-css-resources-1200x675.png",
+      "chapter": "3"
     },
     {
       "id": "04",
       "name": "JavaScript",
-      "img": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg"
+      "img": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+      "chapter": "3"
     },
     {
       "id": "05",
       "name": "Tailwind Css",
-      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--wItrmFEH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/9txqlyg261jiu8blq1mj.jpg"
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--wItrmFEH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/9txqlyg261jiu8blq1mj.jpg",
+      "chapter": "3"
     },
     {
       "id": "06",
       "name": "Bootstrap",
-      "img": "https://img.freepik.com/premium-vector/bootstrap-flat-logo-vector-illustration_582637-461.jpg?w=2000"
+      "img": "https://img.freepik.com/premium-vector/bootstrap-flat-logo-vector-illustration_582637-461.jpg?w=2000",
+      "chapter": "3"
     },
     {
       "id": "07",
       "name": "React",
-      "img": "https://cdn3.icicletech.com/media/react-logo.png"
+      "img": "https://cdn3.icicletech.com/media/react-logo.png",
+      "chapter": "3"
     },
     {
       "id": "00",
       "name": "All Courses",
-      "img": "https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1666724468~exp=1666725068~hmac=51bb6358effb7dbcdec2adcc5fca22364798de94a595763684165f76efb5a040"
+      "img": "https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1666724468~exp=1666725068~hmac=51bb6358effb7dbcdec2adcc5fca22364798de94a595763684165f76efb5a040",
+      "chapter": "21"
     }
   ]
